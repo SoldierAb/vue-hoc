@@ -1,0 +1,15 @@
+{
+  "name": "vue-hoc",
+  "version": "1.0.0",
+  "description": "vue 高阶组件探索",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hoc",
+    "vue"
+  ],
+  "author": "gj-chen",
+  "license": "MIT"
+}
